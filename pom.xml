@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>org.example</groupId>
-    <artifactId>projeto-async</artifactId>
+    <artifactId>cadastro-em-lote</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
